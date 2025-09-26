@@ -1,0 +1,4 @@
+{
+  "ignore": ["frontend/**/*"],
+  "ext": "js,json"
+}
